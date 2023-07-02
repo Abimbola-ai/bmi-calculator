@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "bmi-calculator",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bmi-calculator"
+	}
+}
