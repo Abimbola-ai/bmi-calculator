@@ -112,6 +112,7 @@ h6 {
     height: 40rem;
     border-radius: 0px 0px 35px 35px;
     background: var(--gradient-1);
+    color: var(--gunmetal);
     
 
 }
@@ -223,6 +224,94 @@ h6 {
 
 .right-midsection-1 {
     margin: 3rem 1.44rem 2rem 1.5rem;
+    
+}
+
+.right-midsection-1 h3 {
+    color: var(--gunmetal);
+}
+.right-midsection-1 p {
+    color: var(--dark-electric-blue);
+}
+
+.mid-section-2 {
+    width: 100%;
+    height: 54.9375rem;
+    /* opacity: 0.25; */
+    background: var(--gradient-1);
+    display: block;
+    margin: 0px auto;
+}
+
+.mid-section-text {
+    margin: 3rem 1.81rem 2.5rem 1.19rem;
+    
+}
+
+.mid-section-text img {
+    width: 4rem;
+    height: 4rem;
+}
+
+.mid-section-text h5 {
+    margin-top: 2rem;
+    color: var(--gunmetal);
+}
+
+.mid-section-text p {
+    margin-top: 1.5rem;
+    color: var(--dark-electric-blue);
+}
+
+.bottom-section { 
+   
+    width: 100%;
+    height: 276.125rem;
+    display: block;
+    background: var(--gradient-1);
+    
+}
+
+.limitations-of-bmi {
+    text-align: center;
+}
+
+.limitations-of-bmi p {
+    color: var(--dark-electric-blue);
+    
+}
+
+.limitations-of-bmi h3 {
+    color: var(--gunmetal);
+}
+
+.top-bottom-div {
+    margin: 3rem 1.81rem 2.5rem 1.19rem;
+}
+
+.icon-text-image img {
+    width: 2rem;
+    height: 2rem;
+    float: left;
+}
+
+.icon-text {
+    background: var(--pure-white);
+    padding: 1.5rem;
+    border-radius: 16px;
+    margin-top: 1rem;
+}
+
+.icon-text p {
+    color: var(--dark-electric-blue);
+}
+
+.icon-text h6 {
+    color: var(--gunmetal);
+}
+
+.img-text img {
+    float: left;
 }
 
 /* small tablet styles */
